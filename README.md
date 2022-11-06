@@ -42,7 +42,7 @@
 
 
 # HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
-># [LIVE [HOSTED] PROJECT LINK](https://brijesh8128-word-counter.netlify.app/"Word COunter")
+># [LIVE [HOSTED] PROJECT LINK](https://brijesh8128-word-counter.netlify.app/ "Word COunter")
 
 >![Screenshot](./screenshot/screenshot-1.png)
 >![Screenshot](./screenshot/screenshot-2.png)
