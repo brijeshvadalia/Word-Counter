@@ -15,7 +15,7 @@
 
 ![Gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1609865669335/9c_vcrn-E.gif)
 
-> # All About `Word Counter` 😎
+> # All About `Word Counter App` 😎
 
 # **Gained expertise through this project :**
 
